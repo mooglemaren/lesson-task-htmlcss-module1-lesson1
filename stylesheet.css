@@ -1,0 +1,16 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Roboto&display=swap');
+</style>
+
+
+header {
+    background-color: rgb(34, 37, 75);
+}
+
+footer {
+    background-color: rgb(34, 37, 75);
+    height: 50px;
+}
+#head a  {
+    color: rgb(250, 249, 247);
+}
